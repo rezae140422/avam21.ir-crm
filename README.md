@@ -13,7 +13,7 @@ A CRM system for a financial-services business, intended to help organise client
 - Role-based access for staff and a general overview of activity
 - A secure-by-design internal web interface, described only in general terms
 
-This page is a general, anonymous summary only. It deliberately contains no client name, domain, business data, process detail, or other confidential information.
+This page is a general, anonymous summary only. Client data, business details, and confidential information are not included on this page.
 
 ## Why the code is not published
 
